@@ -1,0 +1,9 @@
+[submodule "mapping"]
+	path = mapping
+	url = git@github.com:tfiliba/thesis-mapping.git
+[submodule "thesis-benchmarks"]
+	path = thesis-benchmarks
+	url = git@github.com:tfiliba/thesis-benchmarks.git
+[submodule "dissertation"]
+	path = dissertation
+	url = git@github.com:tfiliba/Dissertation.git
